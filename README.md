@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(July 27, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Tyler Webb)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Create a recipe application that will display contenet when headers are clicked by the user)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://twebb95.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. To access elements using jQuery syntax
+2. Use built-in jQuery syntax
+3. Using jquery to ad interactivity to an application
 
